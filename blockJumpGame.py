@@ -1,8 +1,6 @@
 from graphics import GraphWin, Rectangle, Point, color_rgb, Text
 import time
 import random
-import sys
-sys.path.insert(0, 'c:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\neuralnetwork')
 from NeuralNetwork import Network
 
 class BlockJumpGame(GraphWin):
